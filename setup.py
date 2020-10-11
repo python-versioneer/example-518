@@ -13,7 +13,7 @@ setup(
     long_description="{0}".format(open("README.rst").read()),
     author="Nathan Buckner",
     author_email="example@example.com",
-    url="git@github.com:bucknerns/examplerepo",
+    url="git@github.com:python-versioneer/example-518",
     packages=find_namespace_packages("src"),
     include_package_data=True,
     classifiers=[
